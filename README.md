@@ -1,4 +1,4 @@
-C-SHELL(Assignment-3)
+C-SHELL
 
 This is the linux shell implemented in C
 
